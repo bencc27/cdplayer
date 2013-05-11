@@ -1,3 +1,6 @@
+##EVA: http://jyraphe.isae.fr/file.php?h=R17174c6910523e471be56496025659be
+##            Ce fichier est valide juqu'à la date suivante : sam. 08 juin 2013 08:46:30 CEST
+
 CDPlayer starts creates all the components necesary for the execution of all the tasks, and starts the threads. It uses two arraylist to
 save the values of the samples written by simulator and by DacWritting, saving them in the same order as they were written to compare them
 in the end and verify that there have been no errors and the program works.
